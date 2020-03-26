@@ -1,0 +1,4 @@
+Full Name: Samuel Segun
+Email: seguntsamuel@gmail.com
+Slack username: ss-xable
+Tracks: Frontend (CSS,HTML, Java Script) & Backend (Python)
